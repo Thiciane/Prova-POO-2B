@@ -1,0 +1,12 @@
+C:\Users\thici\Documents\IFRO\codigos\Prova-2b-POO\bin\Debug\Prova-2b-POO.exe.config
+C:\Users\thici\Documents\IFRO\codigos\Prova-2b-POO\bin\Debug\Prova-2b-POO.exe
+C:\Users\thici\Documents\IFRO\codigos\Prova-2b-POO\bin\Debug\Prova-2b-POO.pdb
+C:\Users\thici\Documents\IFRO\codigos\Prova-2b-POO\obj\Debug\Prova-2b-POO.csproj.AssemblyReference.cache
+C:\Users\thici\Documents\IFRO\codigos\Prova-2b-POO\obj\Debug\Prova-2b-POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\thici\Documents\IFRO\codigos\Prova-2b-POO\obj\Debug\Prova_2b_POO.Form1.resources
+C:\Users\thici\Documents\IFRO\codigos\Prova-2b-POO\obj\Debug\Prova_2b_POO.Properties.Resources.resources
+C:\Users\thici\Documents\IFRO\codigos\Prova-2b-POO\obj\Debug\Prova-2b-POO.csproj.GenerateResource.cache
+C:\Users\thici\Documents\IFRO\codigos\Prova-2b-POO\obj\Debug\Prova-2b-POO.csproj.CoreCompileInputs.cache
+C:\Users\thici\Documents\IFRO\codigos\Prova-2b-POO\obj\Debug\Prova-2b-POO.exe
+C:\Users\thici\Documents\IFRO\codigos\Prova-2b-POO\obj\Debug\Prova-2b-POO.pdb
+C:\Users\thici\Documents\IFRO\codigos\Prova-2b-POO\obj\Debug\Prova_2b_POO.Correcao.resources
