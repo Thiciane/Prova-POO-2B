@@ -5,8 +5,6 @@ public class Gabarito
      
     public string Correcaoo(string[] aluno)
     {
-
-        
         int conta = 0;
         for(int i = 0; i < resposta.Length; i++)
         {
