@@ -5,18 +5,17 @@ public class Gabarito
      
     public string Correcaoo(string[] aluno)
     {
+
         
         int conta = 0;
         for(int i = 0; i < resposta.Length; i++)
         {
-            string[] respostas = (aluno[i].ToLower()).Split();
-            string[] gabarito = (resposta[i].ToLower()).Split();
-
-            if (respostas[i] == gabarito[i])
+            string alunoUpper = aluno[i].ToUpper();
+            if (alunoUpper == resposta[i])
             {
-                conta =+ 1;
+                conta++;
             }
         }
-        return Convert.ToInt32(conta).ToString();
+        return conta.ToString();
     }
 }
