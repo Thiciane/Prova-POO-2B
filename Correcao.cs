@@ -21,7 +21,76 @@ namespace Prova_2b_POO
         private void bt_avaliar_Click(object sender, EventArgs e)
         {
             Acertos();
+
         }
+
+        /*
+         *  Tentativa de ErrorProvider
+         *  S
+         * public bool valid;
+        public bool erroProvider()
+        {
+            if (txB_questao1.Text == null || txB_questao1.Text == "")
+            {
+                errorProvider1.Icon() = "erro";
+                return false;
+            }
+            if (txB_questao2.Text == null || txB_questao2.Text == "")
+            {
+                errorProvider1.GetIconPadding() = "erro";
+                return false;
+            }
+            if (txB_questao3.Text == null || txB_questao3.Text == "")
+            {
+                errorProvider1.GetIconPadding() = "erro";
+                return false;
+
+            }
+            if (txB_questao4.Text == null || txB_questao4.Text == "")
+            {
+                errorProvider1.GetIconPadding() = "erro";
+                return false;
+
+            }
+            if (txB_questao5.Text == null || txB_questao5.Text == "")
+            {
+                errorProvider1.GetIconPadding() = "erro";
+                return false;
+
+            }
+            if (txB_questao6.Text == null || txB_questao6.Text == "")
+            {
+                errorProvider1.GetIconPadding() = "erro";
+                return false;
+
+            }
+            if (txB_questao7.Text == null || txB_questao7.Text == "")
+            {
+                errorProvider1.GetIconPadding() = "erro";
+                return false;
+
+            }
+            if (txB_questao8.Text == null || txB_questao8.Text == "")
+            {
+                errorProvider1.GetIconPadding() = "erro";
+                return false;
+
+            }
+            if (txB_questao9.Text == null || txB_questao9.Text == "")
+            {
+                errorProvider1.GetIconPadding() = "erro";
+                return false;
+
+            }
+            if (txB_questao10.Text == null || txB_questao10.Text == "")
+            {
+                errorProvider1.GetIconPadding() = "erro";
+                return false;
+
+            }
+            return valid;    
+        }*/
+
         private string Acertos()
         {
             try

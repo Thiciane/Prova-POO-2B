@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.txB_questao1 = new System.Windows.Forms.TextBox();
             this.txB_questao2 = new System.Windows.Forms.TextBox();
             this.txB_questao4 = new System.Windows.Forms.TextBox();
@@ -50,6 +51,8 @@
             this.label10 = new System.Windows.Forms.Label();
             this.lb_acertos = new System.Windows.Forms.Label();
             this.bt_avaliar = new System.Windows.Forms.Button();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
             // 
             // txB_questao1
@@ -231,6 +234,10 @@
             this.bt_avaliar.UseVisualStyleBackColor = true;
             this.bt_avaliar.Click += new System.EventHandler(this.bt_avaliar_Click);
             // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
+            // 
             // Correcao
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -261,6 +268,7 @@
             this.Name = "Correcao";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Correção";
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -290,5 +298,6 @@
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label lb_acertos;
         private System.Windows.Forms.Button bt_avaliar;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
     }
 }
